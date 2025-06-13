@@ -5,7 +5,7 @@ This repository contains source code showing the model architecture, loss functi
 
 If you want a U-Net implementation, [this repository](https://github.com/sm00thix/unet) releases a U-Net implementation under the permissive Apache 2.0 License.
 
-The weights for the ensemble of five modified U-Nets used by Engstrøm et al. [[1]](#references) is available on [HuggingFace](https://huggingface.co/Sm00thix/unet_chemical_map).
+The weights for the ensemble of five modified U-Nets used by Engstrøm et al. [[1]](#references) is available on [Hugging Face](https://huggingface.co/Sm00thix/unet_chemical_map).
 
 
 ## References
